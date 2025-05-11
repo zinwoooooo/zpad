@@ -1,7 +1,11 @@
 {
-  "latest_version": "v1.0.0",
-  "firmware_url": "https://raw.githubusercontent.com/zinwoooooo/zpad/main/firmware/v1.0.0.bin",
-  "sha256": "",
-  "note": "최초 배포 버전입니다.",
-  "force_update": false
+  "latest_version": "v1.0.1",
+  "firmware_url": "https://raw.githubusercontent.com/zinwoooooo/zpad/main/firmware/v1.2.0.bin",
+  "sha256": "75cf0ddd0faadb4aca47c12711c9d36f3c5f18199307565ce6d674ca351f1c4d",
+  "note": "BLE 통신 안정화 및 LED 반응 개선",
+  "release_date": "2025-05-11T12:00:00Z",
+  "force_update": false,
+  "device_model": "ZPad Door",
+  "update_type": "normal",
+  "signed": true
 }
