@@ -1,0 +1,7 @@
+{
+  "latest_version": "v1.0.0",
+  "firmware_url": "https://raw.githubusercontent.com/zinwoooooo/zpad/main/firmware/v1.0.0.bin",
+  "sha256": "",
+  "note": "최초 배포 버전입니다.",
+  "force_update": false
+}
